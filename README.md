@@ -3,7 +3,7 @@
 ## Run Code
 
 ```shell
-python main.py
+python project1_120230455.py
 ```
 
 ## take two views in Sogang University.
