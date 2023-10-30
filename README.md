@@ -1,1 +1,1 @@
-# visual_odometry
+# automatic stitching of two images
