@@ -22,3 +22,6 @@
 </div>
 
 ## Result : take another set of two views in Sogang University
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/piljaekang/automatic-stitching-of-two-images/assets/72394357/46b11663-b0c1-4760-8536-c2f5b92d41ac" alt="Image 1" width="48%">
+</div>
