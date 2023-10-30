@@ -1,5 +1,11 @@
 # automatic stitching of two images
 
+## Run Code
+
+```shell
+python main.py
+```
+
 ## take two views in Sogang University.
 
 <div style="display: flex; justify-content: space-between;">
