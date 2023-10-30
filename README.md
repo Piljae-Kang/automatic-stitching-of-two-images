@@ -2,8 +2,8 @@
 
 ## take two views in Sogang University.
 <figure class="half">
-  <a href="link"><img src="https://github.com/piljaekang/automatic-stitching-of-two-images/assets/72394357/c4de7d6c-e93c-4716-9d14-9606366c888e"></a>
-  <a href="link"><img src="https://github.com/piljaekang/automatic-stitching-of-two-images/assets/72394357/312e5b0a-5328-4a0c-ad53-e37574163f8c"></a>
+  <a href="link"><img src="https://github.com/piljaekang/automatic-stitching-of-two-images/assets/72394357/79261def-b235-4a29-b4ae-eb7dccc056fb"></a>
+  <a href="link"><img src="https://github.com/piljaekang/automatic-stitching-of-two-images/assets/72394357/2a4c0c75-c436-48aa-b99e-78ef4ae97af1"></a>
   <figcaption>2개이미지.</figcaption>
 </figure>
 
